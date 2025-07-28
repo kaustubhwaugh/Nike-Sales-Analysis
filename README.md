@@ -2,6 +2,8 @@
 
 ### 📊 [View the Interactive Notebook on Kaggle](https://www.kaggle.com/code/kaustubhwaugh/nike-sales-eda-exploratory-data-analysis)
 
+### Dataset - [Nike Sales Dataset](https://www.kaggle.com/datasets/nayakganesh007/nike-sales-uncleaned-dataset)
+
 ---
 
 ### 🎯 Project Objective
