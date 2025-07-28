@@ -39,6 +39,6 @@ The initial dataset required significant cleaning and preprocessing to ensure th
 ---
 
 ### 🚀 How to Run
-1.  Clone this repository: `git clone https://github.com/YourUsername/Nike-Sales-Analysis.git`
+1.  Clone this repository: `git clone https://github.com/kaustubhwaugh/Nike-Sales-Analysis.git`
 2.  Install the required libraries: `pip install pandas numpy matplotlib seaborn`
 3.  Open the `Nike_Sales.ipynb` file in Jupyter Notebook or JupyterLab.
